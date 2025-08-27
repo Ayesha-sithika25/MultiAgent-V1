@@ -1,0 +1,6 @@
+geopy
+python-dotenv
+pytz
+requests
+streamlit
+plyer
