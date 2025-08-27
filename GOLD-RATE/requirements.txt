@@ -1,0 +1,15 @@
+# Gold-Rate-Notifier
+yfinance 
+plyer
+pytz
+
+# Gold-Rate-Widget
+yfinance
+pytz
+tkinter 
+
+# Gold-Rate-Agent
+plyer
+python-dotenv
+pytz
+streamlit

@@ -1,0 +1,4 @@
+pytz==2025.2
+yfinance==0.2.65
+
+# tkinter , datetime , sys → Part of the Python standard library,
