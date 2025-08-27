@@ -1,0 +1,10 @@
+geopy
+plyer
+python-dotenv
+pytz
+requests
+streamlit
+yfinance
+transformers
+torch
+sentence-transformers

@@ -1,0 +1,7 @@
+geopy
+plyer
+python-dotenv
+pytz
+requests
+streamlit
+yfinance
